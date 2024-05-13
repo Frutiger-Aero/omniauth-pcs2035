@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "omniauth-2035"
+
+require "pry"
+Pry.start
